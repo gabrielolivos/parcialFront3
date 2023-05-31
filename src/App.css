@@ -1,0 +1,28 @@
+.divFormulario{
+    background-color: #0A0A0A;
+    height: 600px;
+    width: 400px;
+    display:flex;
+    flex-direction: column; 
+    
+
+}
+
+.cardPrincipal{
+    background-color: teal;
+    height: 100px;
+    width:300px;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 50px;
+    left: 50px
+}
+
+.cardError{
+    color: red;
+    height: 100px;
+    width:300px;
+}
